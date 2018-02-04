@@ -22,10 +22,10 @@ When the API provides an error, it uses the following format:
 
 ```json
 {
-    "error":true,
-    "message":"message",
-    "code":504,
-    "details":"This field might or might not be provided by the API"
+    "error": true,
+    "message": "A message describing the error",
+    "code": 504,
+    "details": "Additional details, may or may not be provided by the API"
 }
 ```
 
