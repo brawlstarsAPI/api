@@ -6,7 +6,7 @@ Authors: kranemax#7226
 Additional Notes: Python (a)sync client for the API. 
 
 # Wrappers:
-Below are all the wrappers for the API.
+Below are all the wrappers for the API. <br />
 These are wrappers that have been made to help make the API more user friendly.
 
 ### abrawlpy - Python
