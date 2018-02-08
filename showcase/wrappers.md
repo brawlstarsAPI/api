@@ -11,4 +11,4 @@ Additional Notes: Easy to use Python async client to get all statistics from the
 ### brawlstars
 Source: https://www.github.com/umbresp/brawlstars
 Author: Viktinye#9711
-Additional Notes: Easy to use, async and sync, clean interface, PyPI, supports authorization
+Additional Notes: Easy to use, async and sync, clean interface
