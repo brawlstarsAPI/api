@@ -1,5 +1,3 @@
-These are wrappers that have been made to help make the API more user friendly.
-
 # Format to Use:
 Use this format when adding your wrapper:
 ### Wrapper Name - Python
@@ -9,6 +7,7 @@ Additional Notes: Python (a)sync client for the API.
 
 # Wrappers:
 Below are all the wrappers for the API.
+These are wrappers that have been made to help make the API more user friendly.
 
 ### abrawlpy - Python
 Source: https://www.github.com/SharpBit/abrawlpy <br />
